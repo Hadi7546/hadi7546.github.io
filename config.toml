@@ -73,7 +73,7 @@ url = ""
 [params.footer]
 author = true
 copyright = false
-rss = true
+rss = false
 trademark = true
 
 bottomText = []
