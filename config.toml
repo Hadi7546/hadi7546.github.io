@@ -138,6 +138,11 @@ name = "About"
 url = "about/"
 
 [[menu.main]]
+identifier = "clone"
+name = "Clone"
+url = "https://clone.hadi7546.ir"
+
+[[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "https://blog.hadi7546.ir"
