@@ -1,4 +1,4 @@
-baseURL = "https://hadi7546.me"
+baseURL = "https://hadi7546.ir"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 title = "Hadi Azarnasab"
@@ -52,8 +52,8 @@ dateformShort = "Jan 2"
 
 # Metadata mostly used in document's head
 # 
-description = "Hadi Azarnasab Personal Website"
-images = ["images/hadi-latest.png"]
+description = "Hadi Azarnasab personal website"
+images = ["images/pixelated-hadi-rmbg.png"]
 keywords = "Hadi, Hadi7546, HadiAzarnasab"
 
 homeSubtitle = "A 16 Y/O Student | Flutter & GoLang Developer | Astronomy & Physics & AI/ML Lover"
