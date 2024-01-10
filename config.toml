@@ -92,7 +92,7 @@ logoText = "Hadi7546"
 
 [params.portrait]
 alt = "Portrait"
-path = "images/hadi-latest-cropped.png"
+path = "images/pixelated-hadi-rmbg.png"
 
 [[params.social]]
 name = "twitter"
