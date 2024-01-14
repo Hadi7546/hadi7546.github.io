@@ -138,9 +138,9 @@ name = "About"
 url = "about/"
 
 [[menu.main]]
-identifier = "clone"
-name = "Clone"
-url = "https://clone.hadi7546.ir"
+identifier = "micro-blog"
+name = "Micro Blog"
+url = "https://t.me/hadi_7546"
 
 [[menu.main]]
 identifier = "blog"
