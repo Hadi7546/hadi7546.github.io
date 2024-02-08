@@ -124,6 +124,10 @@ name = "monkeytype"
 url = "social/monkeytype"
 
 [[params.social]]
+name = "codeforces"
+url = "social/codeforces"
+
+[[params.social]]
 name = "mastodon"
 url = "social/mastodon"
 
@@ -136,11 +140,6 @@ url = "mailto:hi@hadi7546.ir"
 identifier = "about"
 name = "About"
 url = "about/"
-
-[[menu.main]]
-identifier = "micro-blog"
-name = "Micro Blog"
-url = "https://t.me/hadi_7546"
 
 [[menu.main]]
 identifier = "blog"
