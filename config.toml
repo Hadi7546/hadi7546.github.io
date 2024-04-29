@@ -56,7 +56,7 @@ description = "Hadi Azarnasab personal website"
 images = ["images/pixelated-hadi-rmbg.png"]
 keywords = "Hadi, Hadi7546, HadiAzarnasab"
 
-homeSubtitle = "A 16 Y/O Student | Flutter & GoLang Developer | Astronomy & Physics & AI/ML Lover"
+homeSubtitle = "A 16 Y/O Student | Flutter Developer | Astronomy & Physics & AI/ML Lover"
 
 disableReadOtherPosts = false
 enableGlobalLanguageMenu = false
