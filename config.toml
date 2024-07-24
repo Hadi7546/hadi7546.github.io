@@ -1,7 +1,7 @@
 baseURL = "https://hadi7546.ir"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-title = "Hadi Azarnasab"
+title = "hadi"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -34,7 +34,7 @@ enableMissingTranslationPlaceholders = false
 enableRobotsTXT = true
 
 [author]
-name = "Hadi Azarnasab"
+name = "hadi"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -52,11 +52,11 @@ dateformShort = "Jan 2"
 
 # Metadata mostly used in document's head
 # 
-description = "Hadi Azarnasab personal website"
+description = "hadi's personal website"
 images = ["images/pixelated-hadi-rmbg.png"]
 keywords = "Hadi, Hadi7546, HadiAzarnasab"
 
-homeSubtitle = "A 16 Y/O Student | Flutter Developer | Astronomy & Physics & AI/ML Lover"
+homeSubtitle = "16-year-old student. developer. interested in physics, math, astronomy, philosophy, ai/ml, open-source, linux and chess. i use arch btw!"
 
 disableReadOtherPosts = false
 enableGlobalLanguageMenu = false
