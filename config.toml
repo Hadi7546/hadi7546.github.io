@@ -56,7 +56,7 @@ description = "hadi's personal website"
 images = ["images/pixelated-hadi-rmbg.png"]
 keywords = "Hadi, Hadi7546, HadiAzarnasab"
 
-homeSubtitle = "16-year-old student. developer. interested in physics, math, astronomy, philosophy, ai/ml, open-source, linux and chess. i use arch btw!"
+homeSubtitle = "16-year-old. student. developer. interested in physics, math, astronomy, philosophy, ai/ml, open-source, linux and chess."
 
 disableReadOtherPosts = false
 enableGlobalLanguageMenu = false
@@ -88,7 +88,7 @@ theme = "#1b1c1d"
 logoCursorDisabled = true
 logoHomeLink = "/"
 logoMark = " "
-logoText = "Hadi7546"
+logoText = "hadi7546"
 
 [params.portrait]
 alt = "Portrait"
@@ -138,15 +138,15 @@ url = "mailto:hi@hadi7546.ir"
 [menu]
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "about"
 url = "about/"
 
 [[menu.main]]
 identifier = "blog"
-name = "Blog"
+name = "blog"
 url = "https://blog.hadi7546.ir"
 
 [[menu.main]]
 identifier = "resume"
-name = "Resume"
+name = "resume"
 url = "https://resume.hadi7546.ir"
