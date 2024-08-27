@@ -137,11 +137,6 @@ url = "mailto:hi@hadi7546.ir"
 
 [menu]
 [[menu.main]]
-identifier = "about"
-name = "about"
-url = "about/"
-
-[[menu.main]]
 identifier = "blog"
 name = "blog"
 url = "https://blog.hadi7546.ir"

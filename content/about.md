@@ -7,8 +7,4 @@ aliases = ["about-me","about"]
 +++
 
 # who am i? 
-a difficult question for which i don't have an answer until now. but:
-16-year-old. student. developer.
-interested in physics, math, astronomy, philosophy, ai/ml, open-source, linux, rock, and chess.
-learning to research, rust, cp, kernel, and network.
-i use arch and nvim btw!
+a difficult question for which i don't have an answer until now. 
